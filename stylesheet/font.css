@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'Arial';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/ARIAL.woff') format('woff');
+}
+@font-face {
+font-family: 'Gulyesa Script';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/HLT_GulyesaScript') format('ttf');
+}

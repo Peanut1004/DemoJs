@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Crow's Feet",
+      "nprice": 20,
+      "oprice": 27,
+      "image": "images/data/01.png"
+    },
+    {
+      "id": 2,
+      "name": "Fortune Tree",
+      "nprice": 18,
+      "oprice": 30,
+      "image": "images/data/02.png"
+    },
+    {
+      "id": 3,
+      "name": "Needle Fortune",
+      "nprice": 20,
+      "oprice": 28,
+      "image": "images/data/03.png"
+    },
+    {
+      "id": 4,
+      "name": "Cactus",
+      "nprice": 17,
+      "oprice": 40,
+      "image": "images/data/04.png"
+    },
+    {
+      "id": 5,
+      "name": "Zucchini",
+      "nprice": 22,
+      "oprice": 33,
+      "image": "images/data/05.png"
+    },
+    {
+      "id": 6,
+      "name": "Kaleidoscope",
+      "nprice": 17,
+      "oprice": 45,
+      "image": "images/data/06.png"
+    },
+    {
+      "id": 7,
+      "name": "Red Banyan",
+      "nprice": 19,
+      "oprice": 27,
+      "image": "images/data/07.png"
+    },
+    {
+      "id": 8,
+      "name": "Honor",
+      "nprice": 17,
+      "oprice": 36,
+      "image": "images/data/08.png"
+    },
+    {
+      "id": 9,
+      "name": "Palm",
+      "nprice": 22,
+      "oprice": 41,
+      "image": "images/data/09.png"
+    },
+    {
+      "id": 10,
+      "name": "Small Pneapple",
+      "nprice": 13,
+      "oprice": 24,
+      "image": "images/data/10.png"
+    },
+    {
+      "id": 11,
+      "name": "Queen",
+      "nprice": 14,
+      "oprice": 30,
+      "image": "images/data/11.png"
+    },
+    {
+      "id": 12,
+      "name": "Hawai",
+      "nprice": 17,
+      "oprice": 27,
+      "image": "images/data/12.png"
+    },
+    {
+      "id": 13,
+      "name": "King",
+      "nprice": 19,
+      "oprice": 31,
+      "image": "images/data/13.png"
+    },
+    {
+      "id": 14,
+      "name": "Price",
+      "nprice": 21,
+      "oprice": 40,
+      "image": "images/data/14.png"
+    }
+  ],
+  "users": [
+    {
+      "fname": "Quang",
+      "lname": "Đỗ Lâm",
+      "cty": "Cổ phần TNHH NPN",
+      "address": "09 Hòa An 5, Đà Nẵng",
+      "city": "Đà Nẵng",
+      "nationality": "Việt Nam",
+      "zip": "2300089",
+      "phone": "0399642493",
+      "id": 1
+    }
+  ]
+}
